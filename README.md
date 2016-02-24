@@ -1,1 +1,3 @@
-# curso-puppet\npuppet mola
+# curso-puppet
+
+# puppet mola
